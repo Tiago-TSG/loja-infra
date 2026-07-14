@@ -6,4 +6,4 @@ namespace: loja-api-staging
 images:
 - name: ghcr.io/Tiago-TSG/loja-api
   newName: ghcr.io/Tiago-TSG/loja-api
-  newTag: c313748
+  newTag: d156981
