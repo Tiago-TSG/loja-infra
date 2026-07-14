@@ -4,6 +4,6 @@ resources:
   - ../../base
 namespace: loja-api-staging
 images:
-- name: ghcr.io/Tiago-TSG/loja-api
-  newName: ghcr.io/Tiago-TSG/loja-api
+- name: ghcr.io/tiago-tsg/loja-api
+  newName: ghcr.io/tiago-tsg/loja-api
   newTag: d156981
