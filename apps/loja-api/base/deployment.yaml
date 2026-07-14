@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: loja-api
-          image: ghcr.io/Tiago-TSG/loja-api:latest
+          image: ghcr.io/tiago-tsg/loja-api:c313748
           ports:
             - containerPort: 8000
           readinessProbe:
